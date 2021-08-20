@@ -22,7 +22,7 @@ html{
     -webkit-font-smoothing:antialiased;
 }
 header{
-    background: black;
+   background-color: #070606;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
